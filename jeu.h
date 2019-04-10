@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 #include<stdlib.h>
 #include"SDL/SDL.h"
@@ -11,9 +10,6 @@ SDL_Rect rcSprite;
 SDL_Rect rcSrc;
 };typedef struct personnage personnage;
 void game(personnage *p);
-
-
-
 
 
 
